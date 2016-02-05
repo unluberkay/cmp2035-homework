@@ -1,0 +1,167 @@
+<html>
+      <head>
+            <title>IBC&reg 2016 Conference</title>
+            <meta charset="UTF-8">
+            <meta name="description" content="html conference website">
+            <meta name="keywords" content="html, ibc, conference">
+            <meta name="author" content="Berkay Unlu">
+      </head>
+      <body>
+            <h1>IBC&reg 2016 Conference</h1>
+            <!-- //////////////////////INPAGE ANCHORS///////////////////////-->
+            <p>
+                  <a href="#about">About</a> |
+                  <a href="#logistics">Logistics</a> |
+                  <a href="#schedule">Schedule</a> |
+                  <a href="#attend">Attend</a> |
+                  <a href="#contact">Contact</a>
+                  <br />
+            </p>
+            <!-- //////////////////////INPAGE ANCHORS Done//////////////////-->
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+            <!-- /////////////////////////Cover Pic//////////////////////////-->
+            <img src="https://assets.entrepreneur.com/slideshow/breakfast-growth-conference-2012-2.jpg" alt="Spaghetti Carbonara" height="420" width="700">
+            <!-- //////////////////////Cover Pic Done////////////////////////-->
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+            <!-- ///////////////////////////ABOUT////////////////////////////-->
+            <a name="about">
+            <h3>What is IBC&reg</h3>
+            <p>
+                  The IBC&reg Conference is an unrivalled global destination for discussion and debate about the many different challenges facing the electronic media and entertainment industry, both in its sessions and in the range of networking opportunities it affords. Featuring some of the foremost thought-leaders, innovators and policy makers in their fields and covering a wide breadth of topics, the IBC&reg 2015 Conference was the place to explore new strategies, understand business disruptors, chart future technological progress and uncover the future roadmap of the industry.
+            </p>
+            <!-- /////////////////////////ABOUT Done////////////////////////-->
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <!-- ///////////////////////LOGISTICS/////////////////////////-->
+            <a name="logistics">
+            <h3>Where and When is IBC&reg</h3>
+            <p>
+                  IBC&reg 2016 Conference 8 - 12 September 2016 <br />
+                  3799 Las Vegas Boulevard South, Las Vegas, Nevada 89109
+            </p>
+            <br />
+            <!-- //////////////// Google Maps starts here. //////////////////-->
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3223.626970536906!2d-115.17244198416816!3d36.10258031435446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8c5cc93820e25%3A0x9dd94505bd76107f!2sMGM+Grand!5e0!3m2!1sen!2str!4v1454545764034" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <!-- ///////////////// Google Maps ends here. ///////////////// -->
+            <!-- /////////////////////LOGISTICS Done/////////////////////////-->
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <!-- //////////////////////////SCHEDULE//////////////////////////-->
+            <a name="schedule">
+            <h3>Schedule</h3>
+            <!-- //////////////////////TABLE starts here. //////////////////-->
+            <table>
+              <tr>
+                <th></th>
+                <th>11:00</th>
+                <th>12:00</th>
+                <th>13:00</th>
+                <th>14:00</th>
+                <th>15:00</th>
+                <th>16:00</th>
+                <th>17:00</th>
+                <th>18:00</th>
+              </tr>
+              <tr>
+                <th>1st Day</th>
+                <td colspan="2">Keynote: The Future Is Now - Broadcasting in an age of challenge (Kate Bulkley) (E102)</td>
+                <td>Is VoD the New Broadcasting Gold? (Gary Woolf) (Forum)</td>
+                <td></td>
+                <td></td>
+                <td>The Internet of Things Revolution (Joan Gillman) (E101)</td>
+                <td></td>
+                <td></td>
+              </tr>
+              <tr>
+                <th>2nd Day</th>
+                <td></td>
+                <td colspan="2">Cloud Processing: Applications that make sense (Fran Cassidy) (E102)</td>
+                <td></td>
+                <td></td>
+                <td>Advertising Meets Big Data: Watching viewers watching TV (Thomas Bremond) (E101)</td>
+                <td></td>
+                <td>Are Video Shorts the New Format for TV? (Jonathan Allan) (Forum)</td>
+              </tr>
+              <tr>
+                <th>3rd Day</th>
+                <td colspan="2">Paper Session: The Human Interface: Is the Remote Control Redundant Now? (Dominic Stone) (Forum)</td>
+                <td>Paper Session: Big Data Applications in Broadcasting (David Peto) (Forum)</td>
+                <td></td>
+                <td colspan="2">Paper Session: The Human Interface: Is the Remote Control Redundant Now? (Mohamed Abuagla) (E102)</td>
+                <td></td>
+                <td></td>
+              </tr>
+            </table>
+            <!-- /////////////////// TABLE ends here. //////////////////// -->
+            <!-- //////////////////////SCHEDULE Done////////////////////////-->
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <!-- //////////////////////////FORM///////////////////////////-->
+
+            <a name="attend">
+            <h3>Attend</h3>
+            <form action="SERVER" method="get" id="form">
+            <p>
+                  <b>Please, fill in the form to attend IBC&reg 2016!</b>
+            </p>
+            <p>Full Name:
+                  <br />
+                  <input type="text" name="fullName" size="30" placeholder="Your Full name"/>
+            </p>
+            <p>Email:
+                  <br />
+                  <input type="text" name="email" size="30" placeholder="Your professional email"/>
+            </p>
+            <p>Company:
+                  <br />
+                  <input type="text" name="company" size="30" placeholder="Your current company"/>
+            </p>
+            <p>Phone Number:
+                  <br />
+                  <input type="text" name="phoneNumber" size="30" placeholder="Your current phone number"/>
+            </p>
+            </form>
+            <p>
+                  You will be charged <b>&#36;30</b> in the entrance.
+            </p>
+            <button type="submit" form="form" value="Submit">Register</button>
+            <!-- ////////////////////////FORM Done//////////////////////////-->
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <!-- //////////////////////////CONTACT///////////////////////////-->
+            <a name="contact">
+            <h3>Contact Us</h3>
+            <p>
+                  IBC <br />
+                  3rd Floor <br />
+                  10 Fetter Lane <br />
+                  London <br />
+                  EC4A 1BR <br />
+                  United Kingdom
+                  <br />
+                  <br />
+                  Tel:  +44 (0) 20 7832 4100
+                  <br />
+                  Fax: +44 (0) 20 7832 4130
+            </p>
+            <!-- ///////////////////////CONTACT Done////////////////////////-->
+      </body>
+</html>
