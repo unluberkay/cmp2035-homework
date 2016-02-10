@@ -1,5 +1,6 @@
 <html>
       <head>
+            <link rel="stylesheet" type="text/css" href="stylesheet.css">
             <title>IBC&reg 2016 Conference</title>
             <meta charset="UTF-8">
             <meta name="description" content="html conference website">
