@@ -1,0 +1,83 @@
+<html>
+      <head>
+            <!-- <link rel="stylesheet" type="text/css" href="stylesheet.css"> -->
+            <title>Shopigo Mockup</title>
+            <meta charset="UTF-8">
+            <meta name="description" content="html shopigo screenshots">
+            <meta name="keywords" content="html, photo, gallery, shopigo">
+            <meta name="author" content="Berkay Unlu">
+      </head>
+      <body>
+            <h1>In Retail Shopping Experience Mockup</h1>
+            <h3>by Berkay Unlu</h3>
+            <br />
+            <br />
+            <br />
+            <!-- ///////////////////////// Pic//////////////////////////-->
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/logo.png" alt="Shopigo Logo" width="500" height="300">
+            <h5>Logo, Shopigo, 2016, Digital, 1000 x 599</h5>
+            <br />
+            <br />
+            <p>
+                  <h4>What is the problem?</h4>
+                  Andrew is a 22 year old analyst working at Goldman Sachs. After a long day of working at his office, he leaves his office building in downtown New York and starts heading to his apartment. On his way he stops by a CVS to get some junk food and some beer. Walking to the the cashier he realizes that there is a huge line in front of the cashier. But Andrew keeps his calm and heads to the self­checkout. However, what is that! Another huge line. “F*ck!” cries Andrew. Andrew becomes aware of the fact that cashiers and self checkouts are inefficient and just plain dull. What will Andrew do? To be continued...
+                  <h4>What is the solution?</h4>
+                  While waiting on the self checkout line, Andrew sees the ad for Shop n Go app. He downloads the app to his iPhone (can also be android. It is just I have never seen an analyst with an android phone...) First, he registers through his phone number. Then he scans his credit card to save it into the app which is stored within the device. Then he scans the barcodes of the products he just got. After he scanned his still cold beer a pop up shows up on his screen telling him that there is a coupon for purchase that he can use next time when he buys the same beer. Oh the cool thing is that the coupon is, also, stored on his device and enters itself automatically without any input. At the end the app shows him the Total including the tax! (Talk about innovation!). When he presses the “BUY” button he is done. He gets off the line, takes a one last look at the suckers on the line and laughs like an evil, hoping nobody heard him.
+                  <br />
+                  This is the main problem and solution. There are also possibilities of providing retailers with metadata, real time and relevant advertisement (If a person scans a product the system can either offer something to go with it or something instead of the product he or she scanned.)
+
+            </p>
+
+
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/splash.png" alt="Splash Screen">
+            <h5>Splash Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/phone1.png" alt="Phone verification 1 Screen">
+            <h5>Phone Verification 1 Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/phone2.png" alt="Phone verification 2 Screen">
+            <h5>Phone Verification 2 Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/name.png" alt="Name Entry Screen">
+            <h5>Name Entry Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/email.jpeg" alt="Email Screen">
+            <h5>Email Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/credit.jpeg" alt="Credit Card Screen">
+            <h5>Credit Card Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/main.jpeg" alt="Main Screen">
+            <h5>Main Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/empty.jpeg" alt="Empty Cart Screen">
+            <h5>Empty Cart Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/scan.png" alt="Barcode Scan Screen">
+            <h5>Barcode Scan Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/recommend.png" alt="Product Recommendation Screen">
+            <h5>Product Recommendation Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/alcohol.jpeg" alt="Alcohol ID Scan Screen">
+            <h5>Alcohol ID Scan Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/fullCart.jpeg" alt="Full Cart Screen">
+            <h5>Full Cart Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+            <br />
+            <br />
+            <img src="/Users/unluberkay/Documents/Academics/College/2015-2016/Spring 2016/Intro to Web Design/introToWebDesignRepo/03 image gallery/images/pay.png" alt="Payment Verification Screen">
+            <h5>Payment Verification Screen, Shopigo, 2016, Digital, 375 x 667</h5>
+      </body>
+</html>
