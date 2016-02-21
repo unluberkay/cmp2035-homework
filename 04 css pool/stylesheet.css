@@ -1,26 +1,28 @@
 p {
-    color: red;
-    text-align: center;
+    color: lightblue;
+    text-align: right;
+    padding-right: 5%;
     letter-spacing: 2px;
 }
 
 body { 
-    background-color: blue;
+    background-color: darkslategrey;
 }
 
 h1 {
-	border: 15px;
+    color: beige;
+	border: 5px;
 	border-color: white;
-	border-style: dotted solid double dashed;
-	padding: 20px;
+	border-style: double;
+    box-shadow: 10px 10px 10px #2a7254;
+	padding: 2px;
 }
 
 h3 {
-	opacity: 0.5;
-    box-shadow: 10px 10px 50px #884888;
+	opacity: 0.8;
     margin-left: 25%
-    margin-right: 25px;
-    word-spacing: 30px;
+    margin-right: 25%;
+    word-spacing: 8px;
 }
 
 img {
@@ -30,4 +32,5 @@ img {
 
 a {
     color: orange;
+    background-color: rgba(56, 56, 56, 0.71);
 }
