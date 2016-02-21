@@ -1,0 +1,33 @@
+p {
+    color: red;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+body { 
+    background-color: green;
+}
+
+h1 {
+	border: 15px;
+	border-color: white;
+	border-style: dotted solid double dashed;
+	padding: 20px;
+}
+
+h3 {
+	opacity: 0.5;
+    box-shadow: 10px 10px 50px #884888;
+    margin-left: 25%
+    margin-right: 25px;
+    word-spacing: 30px;
+}
+
+img {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+a {
+    color: orange;
+}
