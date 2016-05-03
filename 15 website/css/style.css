@@ -35,7 +35,7 @@ header {
     padding-top: 20px;
     background-color: white;
     height: 150px;
-    border-bottom: solid 2px;
+    border-bottom: solid 2px;    
 }
 
 header #logo {
@@ -134,20 +134,22 @@ header #navigationBar li a:active {
     margin-top: -400px;
 }
 
-
-
-
-
-
-
-
-
+/* inspired by https://css-tricks.com/centering-css-complete-guide/ */
 .iconSummary {
-    float: left;
     padding-top: 50px;
-    margin-left: 10%;
-    margin-right: 8%;
     font-size: 0.9em;
+}
+
+#icon_group {
+    text-align: center;
+    list-style-type: none ;  
+    padding-left: 0 ;
+}
+
+#icon_group li {
+    display: inline-block ;
+    text-align: left;
+    vertical-align: top ;
 }
 
 .iconSummary h3 {
@@ -162,22 +164,21 @@ header #navigationBar li a:active {
 }
 
 .iconSummary #icon1 {
-    float: left;
     width: 200px;
     padding-right: 50px;
 }
+
 .iconSummary #icon2 {
-    float: left;
     width: 200px;
     padding-right: 50px;
 }
+
 .iconSummary #icon3 {
-    float: left;
     width: 200px;
     padding-right: 50px;
 }
+
 .iconSummary #icon4 {
-    float: left;
     width: 200px;
 }
 
